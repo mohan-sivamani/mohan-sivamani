@@ -9,3 +9,6 @@ I was always fascinated with computers, and now I am learning some languages, I 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [My Website](http://mohan-sivamani.is-a.dev)
 *   🧠  I'm learning Godot
+
+
+[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan)](https://github.com/anuraghazra/github-readme-stats)
