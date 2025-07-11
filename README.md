@@ -11,4 +11,4 @@ I was always fascinated with computers, and now I am learning some languages, I 
 *   🧠  I'm learning Godot
 
 
-[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan)](https://github.com/anuraghazra/github-readme-stats)
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-sivamani&show_icons=true&theme=catppuccin_mocha)
