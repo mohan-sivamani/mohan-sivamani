@@ -12,3 +12,5 @@ I was always fascinated with computers, and now I am learning some languages, I 
 
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-sivamani&show_icons=true&theme=catppuccin_mocha)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-sivamani&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
